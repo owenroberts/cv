@@ -18,6 +18,9 @@
     }
 
     &__title {
+        &.no-date {
+            margin-top: 1.75rem;
+        }
     }
 
     &__organization {
@@ -30,14 +33,20 @@
             margin-top: 1em;
         }
 
-        li{
+        ul {
+            margin-left: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        li {
             list-style-type: disc;
-            li{
+            li {
                 margin-left: 2rem;
                 list-style-type: circle;
             }
         }
-        p{
+
+        p {
             margin-bottom: 1rem;
         }
     }

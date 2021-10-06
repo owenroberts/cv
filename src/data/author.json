@@ -1,63 +1,21 @@
 {
-    "name": "Christopher Stein",
-    "occupation": "Associate Professor and Chair",
+    "name": "Owen Roberts",
+    "occupation": "Assistant Professor",
     "location": "New York, NY",
-    "avatar": "stein.jpg",
-    "pronouns": "he/his",
-    "email": "cstein@bmcc.cuny.edu",
-    "website": "https://openlab.bmcc.cuny.edu/christopher-stein-portfolio/",
-    "software": [
-        "Photoshop",
-        "Lightroom",
-        "Adobe XD",
-        "Premiere",
-        "Flash",
-        "ASP",
-        "Acrobat",
-        "Screenflow",
-        "Camtasia",
-        "Zoom",
-        "Audacity"
-    ],
-    "languages": [
-        {
-            "name": "HTML",
-            "level": "-"
-        },
-        {
-            "name": "CSS, Sass",
-            "level": "-"
-        },
-        {
-            "name": "JavaScript",
-            "level": "-"
-        },
-        {
-            "name": "Git"
-        },
-        {
-            "name": "Php"
-        },
-        {
-            "name": "ActionScript"
-        },
-        {
-            "name": "Lingo"
-        },
-        {
-            "name": "SQL"
-        }
-    ],
+    "avatar": "avatar_sm.jpg",
+    "pronouns": "he/him",
+    "email": "oroberts@bmcc.cuny.edu",
+    "website": "https://owen.cool",
     "social": [
         {
             "name": "Github",
-            "user": "@profstein",
-            "url": "https://github.com/profstein"
+            "user": "@owenbmcc",
+            "url": "https://github.com/owenbmcc"
         },
         {
-            "name": "LinkedIn",
-            "user": "Chris Stein",
-            "url": "https://www.linkedin.com/in/steinchris/"
+            "name": "Github",
+            "user": "@owenroberts",
+            "url": "https://github.com/owenroberts"
         }
     ]
 }
