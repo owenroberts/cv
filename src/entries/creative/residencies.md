@@ -1,5 +1,6 @@
 ---
 title: Residencies
+order: 7
 ---
 
 * Vermont Studio Center, Johnson, VT.  August 2019.
