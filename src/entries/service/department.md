@@ -1,5 +1,7 @@
 ---
-title: Media Arts and Technology Department
+title: Department Service
+organization: Media Arts and Technology Department
+order: 1
 ---
 
 * **Media Arts and Technology Departmental Honors Ceremony**, 2017 - present, Design programmatically generated honors awards certificates, design of web based hosting platforms for Spring 2020 and 2021

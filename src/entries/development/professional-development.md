@@ -1,6 +1,5 @@
 ---
 title: Borough of Manhattan Community College
-start: 2017-01-01
 ---
 
 * **Faculty Development Day**, Spring 2017, Fall 2019

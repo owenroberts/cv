@@ -1,5 +1,7 @@
 ---
-title: Borough of Manhattan Community College
+title: College Service
+organization: Borough of Manhattan Community College
+order: 2
 ---
 
 * **Academic Senate**, Fall 2021 - Present, *member*

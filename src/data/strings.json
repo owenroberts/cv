@@ -5,10 +5,7 @@
         "appointments": "Appointments",
         "teaching": "Teaching Experience",
         "service": "Service",
-        "serviceDepartment": "Department Service",
-        "serviceCollege": "College Service",
-        "serviceUniversity": "University Service",
-        "serviceField": "Service to the Field",
+        "development": "Professional Development",
         "creativeWork": "Creative Work",
         "creativeStatement": "My work consists of animation, interactive games and websites, installations and other multi-media works.  In my creative practice I use many of the same technologies, platforms and programming languages that I teach in my courses, enabling me to further develop my skills and conceptual approaches and enhance my teaching."
     },
